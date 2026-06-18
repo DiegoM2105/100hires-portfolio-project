@@ -69,7 +69,6 @@ The result is a clear record of the process and a demonstration of how I use AI-
 
 ## Next Steps
 
-- Commit this README.md file to the repository.
-- Push the final project to GitHub.
 - Continue exploring Cursor's current AI tooling and marketplace options.
 - Keep building practical experience with AI-assisted workflows for marketing, research, automation, and content development.
+- Apply these AI-assisted workflows to future growth marketing tasks such as campaign research, content planning, reporting, and process optimization.
