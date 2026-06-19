@@ -4,7 +4,7 @@
 
 This repository documents my application project for the Junior Growth Marketing Specialist position through 100Hires.
 
-The project started with the initial setup process: installing Cursor, creating a public GitHub repository, reviewing the available AI tooling, and documenting the workflow. After completing that setup, the next phase is a research project focused on AI-powered SEO content production for B2B SaaS.
+The project started with the initial setup process: installing Cursor, creating a public GitHub repository, reviewing the available AI tooling, and documenting the workflow. After completing that setup, I continued with a research project focused on AI-powered SEO content production for B2B SaaS.
 
 The goal of this repository is to demonstrate technical curiosity, AI-assisted execution, research quality, and the ability to organize information into a structure that could later support a practical marketing playbook.
 
@@ -12,7 +12,7 @@ The goal of this repository is to demonstrate technical curiosity, AI-assisted e
 
 AI-powered SEO content production for B2B SaaS
 
-I chose this topic because it sits at the intersection of growth marketing, SEO, content strategy, AI workflows, and scalable execution. It is highly relevant for modern B2B SaaS companies because organic content teams are increasingly using AI to support research, briefing, optimization, content production, and search visibility.
+I chose this topic because it sits at the intersection of growth marketing, SEO, content strategy, AI workflows, and scalable execution. It is highly relevant for modern B2B SaaS companies because organic content teams are increasingly using AI to support research, briefing, optimization, content production, distribution, and search visibility.
 
 The research is not focused on producing generic AI content at scale. Instead, it focuses on how strong marketers and SEO practitioners use AI to improve strategy, quality, speed, and distribution while still maintaining editorial judgment and business relevance.
 
@@ -54,13 +54,21 @@ The repository is organized as follows:
 
 7. Used Codex and ChatGPT as part of my AI-assisted workflow to document the setup process and continue progressing toward the project objective.
 
-## Research Phase Completed So Far
+## Research Completed
 
 For the research project, I selected AI-powered SEO content production for B2B SaaS as the main topic.
 
-I created an initial expert source list in research/sources.md.
+The research now includes:
 
-This file includes 10 selected experts, links to their main platforms, brief annotations, and the reason each expert was selected.
+- A curated expert source list in research/sources.md.
+- 10 selected experts with links, annotations, and selection rationale.
+- Individual expert research notes in research/other/.
+- LinkedIn post notes from Kevin Indig and Lily Ray.
+- YouTube transcript note methodology.
+- YouTube-style research notes for Aleyda Solis, Mike King, and Ross Simmonds.
+- A research framework defining the questions, signals, and angles used in the project.
+- Background notes on AI search and SEO content production.
+- A final research summary connecting the collected material to a future playbook.
 
 ## Expert Selection Criteria
 
@@ -69,7 +77,7 @@ The experts were selected based on the following criteria:
 - They actively practice or lead work in SEO, content strategy, organic growth, AI search, or AI-assisted content workflows.
 - They publish high-signal content through LinkedIn, YouTube, newsletters, blogs, podcasts, or company resources.
 - Their material is strong enough to support a practical playbook later.
-- They represent different angles of the topic: AI search, SEO strategy, content operations, B2B SaaS growth, distribution, and Spanish-language market perspective.
+- They represent different angles of the topic: AI search, SEO strategy, content operations, B2B SaaS growth, distribution, tooling, and Spanish-language market perspective.
 - The list prioritizes quality over volume.
 
 ## Selected Experts
@@ -118,11 +126,24 @@ Dean Romero was selected for his practical experience in SEO, blogging, organic 
 
 I selected a mix of international and Spanish-speaking experts to avoid limiting the research to a single market.
 
-The international experts provide strong perspectives on AI search, B2B SaaS SEO, content operations, generative engine optimization, product-led SEO, and content distribution.
+The international experts provide strong perspectives on AI search, B2B SaaS SEO, content operations, generative engine optimization, product-led SEO, content tooling, and content distribution.
 
 The Spanish-speaking experts add regional depth and practical insight into how SEO, AI-assisted content, and digital publishing are being applied in Spanish-language markets.
 
 This combination creates a stronger research base for a future playbook because it includes both strategic and tactical perspectives.
+
+## Key Research Patterns
+
+The research surfaced several important patterns:
+
+- AI search expands SEO beyond traditional rankings.
+- AI visibility requires measurement beyond traffic and keywords.
+- Content quality, authority, and trust matter more as AI-generated answers become more common.
+- AI-powered SEO content needs human judgment, expert review, and editorial control.
+- Off-property reputation can affect whether a brand is cited by AI systems.
+- AEO is becoming part of modern SEO team structures.
+- Content distribution and repurposing should be built into the workflow from the beginning.
+- Technical SEO still matters because AI systems need accessible, structured, and trustworthy content.
 
 ## Challenges Encountered
 
@@ -140,27 +161,13 @@ Because AI tools are already part of my daily workflow, I leveraged my experienc
 
 This reflects how I use AI in a practical way: not as a replacement for decision-making, but as a tool to improve speed, clarity, research organization, and execution quality.
 
-## Research Collection Plan
+## Outcome
 
-The next step is to collect recent content from the selected experts and organize it inside the repository.
+The initial setup was completed, the repository was created, and the research project was organized inside the repository.
 
-Planned collection structure:
+The project now includes a clear topic, a structured research folder, a curated list of 10 high-signal experts, expert research notes, LinkedIn post notes, YouTube transcript notes, background research, and a final summary.
 
-- research/linkedin-posts/
-- research/youtube-transcripts/
-- research/other/
-
-The linkedin-posts folder will include recent LinkedIn posts organized by author when available.
-
-The youtube-transcripts folder will include transcripts from relevant YouTube videos when transcripts are available through YouTube or other transcript methods.
-
-The other folder will include additional materials such as newsletters, blog posts, podcast notes, interviews, and public resources.
-
-## Outcome So Far
-
-The initial setup was completed, the repository was created, the README was documented, and the research phase has started.
-
-The project now has a clear research topic, a structured repository plan, and a curated list of 10 high-signal experts selected to support a future AI-powered SEO content production playbook.
+The collected material is strong enough to support a future playbook on AI-powered SEO content production for B2B SaaS.
 
 ## Key Learnings
 
@@ -168,12 +175,12 @@ The project now has a clear research topic, a structured repository plan, and a 
 - Strong research depends on source quality, not just volume.
 - AI-assisted workflows can improve speed and structure, but human judgment is still needed to evaluate source quality.
 - SEO content production is evolving from keyword-focused writing toward AI-assisted research, optimization, distribution, and authority building.
+- AI visibility depends on content quality, brand trust, citations, and off-property reputation.
 - A strong research repository should be organized enough to support future strategic work, not just store links.
 
 ## Next Steps
 
-- Add the research/sources.md file with the selected expert list.
-- Create folders for LinkedIn posts, YouTube transcripts, and additional materials.
-- Collect recent high-signal content from each selected expert.
-- Use available tools and APIs where possible to collect transcripts and organize source material.
-- Commit and push progress regularly instead of waiting for one final commit.
+- Continue collecting additional high-signal LinkedIn posts and YouTube transcripts.
+- Expand the research with more direct transcript material where available.
+- Turn the collected research into a practical AI-powered SEO content production playbook.
+- Apply the workflow to future growth marketing tasks such as campaign research, content planning, reporting, and process optimization.
